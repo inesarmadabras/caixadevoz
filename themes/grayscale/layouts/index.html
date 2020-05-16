@@ -12,7 +12,7 @@
 {{ range $ind, $elem := (sort $sections.Resources ".Params.weight") }}
  {{- if eq $ind 0 -}}<header><div id="intro-body">
  {{- else }}<section id="sec-ind-{{ $ind }}" class="section-{{ $ind }} content-section text-center">{{ end }}
- <div class="container"><div class="row"><div class="col-lg-9 mx-auto">
+ <div class="container"><div class="row"><div class="col-lg-8 mx-auto">
   {{- if $elem.Params.improvecontrast }}<div class="improve-contrast-box">{{ end }}
   {{ default "" $elem.Content }}
   {{- if $elem.Params.improvecontrast }}</div>{{ end }}
