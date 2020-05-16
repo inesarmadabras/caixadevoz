@@ -1,0 +1,16 @@
+baseURL = "http://caixadevoz.pt/"
+languageCode = "pt-PT"
+title = "Caixa de Voz"
+theme = "grayscale"
+googleAnalytics = "UA-166875250-1"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "Caixa de Voz hotline covid19 #EstamosON"
+
+[Author]
+    name = "Filipe Barroso & Inês Armada Brás"
+   
+[Social]
+    twitter = "caixadevoz"
