@@ -9,6 +9,8 @@ As mensagens poderão ser publicadas anonimamente nas nossas redes sociais. Segu
 
 {{< socialhandles >}}
     {{< twitter user="caixadevoz" >}}
+    {{< instagram user="caixadevoz.pt" >}}
+    
 {{< /socialhandles >}}
 
 ***
