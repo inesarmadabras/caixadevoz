@@ -7,13 +7,16 @@ weight: 2
 
 Vivemos tempos de incerteza. Aumentou o stress e a ansiedade de não saber quando e se vamos voltar ao que nos era normal. Para alguns, foi também tempo para parar, repensar e tentar encontrar uma nova estabilidade.
 
-Agora, com a reabertura do país, qual vai ser o teu novo "normal"?
+Agora, com a reabertura do país, de que forma vamos voltar à "normalidade"?
 
-Queremos ouvir o que pensas.
+A pensar nisto, criámos esta linha telefónica, destinada a recolher testemunhos e opiniões, relacionados ou não com o COVID-19. O que pensaste durante o confinamento? Qual vai ser o teu novo “normal”?  
 
-Partilha a tua experiência, receios e felicidades connosco e iremos partilhar anonimamente.
+Queremos ouvir a tua opinião.
 
-Não estás sozinho.
+Partilha a tua experiência, receios, felicidades ou pensamentos aleatórios connosco e iremos partilhar anonimamente.
+
+Deixa a tua mensagem de voz em {{< socialhandles >}} {{< number user="caixadevoz" >}} {{< /socialhandles >}}
+
 
 ***
 ***

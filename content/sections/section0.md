@@ -10,7 +10,7 @@ improvecontrast: true
 {{< /socialhandles >}}
 
 
-Fala connosco. Não estás sozinho.
+Faz-te ouvir. Deixa a tua mensagem de voz.
 
 ***
 
